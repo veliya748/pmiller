@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pmiller/static/css/main.d1b05096.chunk.css",
+    "main.js": "/pmiller/static/js/main.b7d84bc5.chunk.js",
+    "main.js.map": "/pmiller/static/js/main.b7d84bc5.chunk.js.map",
+    "runtime-main.js": "/pmiller/static/js/runtime-main.01c2b0d3.js",
+    "runtime-main.js.map": "/pmiller/static/js/runtime-main.01c2b0d3.js.map",
+    "static/js/2.ccbfa1e0.chunk.js": "/pmiller/static/js/2.ccbfa1e0.chunk.js",
+    "static/js/2.ccbfa1e0.chunk.js.map": "/pmiller/static/js/2.ccbfa1e0.chunk.js.map",
+    "index.html": "/pmiller/index.html",
+    "precache-manifest.f741f0e1d692c35a5720af0cce6bb910.js": "/pmiller/precache-manifest.f741f0e1d692c35a5720af0cce6bb910.js",
+    "service-worker.js": "/pmiller/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/pmiller/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ccbfa1e0.chunk.js.LICENSE": "/pmiller/static/js/2.ccbfa1e0.chunk.js.LICENSE",
+    "static/media/arzt.png": "/pmiller/static/media/arzt.de578f1b.png",
+    "static/media/doctor comp.png": "/pmiller/static/media/doctor comp.657ddffa.png",
+    "static/media/healthcare.png": "/pmiller/static/media/healthcare.3f35d139.png",
+    "static/media/kai.png": "/pmiller/static/media/kai.0f2ddd84.png",
+    "static/media/logo.png": "/pmiller/static/media/logo.69272775.png",
+    "static/media/map.PNG": "/pmiller/static/media/map.b34c85bd.PNG",
+    "static/media/office.jpg": "/pmiller/static/media/office.9c84c66c.jpg",
+    "static/media/welcome.jpg": "/pmiller/static/media/welcome.ed2c3c75.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01c2b0d3.js",
+    "static/js/2.ccbfa1e0.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b7d84bc5.chunk.js"
+  ]
+}
