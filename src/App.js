@@ -14,8 +14,8 @@ function App() {
    <Router>
     <Switch>
      <Route exact path='/pmiller' component={Home}></Route>
-      <Route exact path='/pmiller/imprint' component={Imprint}></Route>
-      <Route exact path='/pmiller/privacy' component={Privacy}></Route>
+      <Route exact path='/imprint' component={Imprint}></Route>
+      <Route exact path='/privacy' component={Privacy}></Route>
     </Switch>
     </Router>
     </div>
